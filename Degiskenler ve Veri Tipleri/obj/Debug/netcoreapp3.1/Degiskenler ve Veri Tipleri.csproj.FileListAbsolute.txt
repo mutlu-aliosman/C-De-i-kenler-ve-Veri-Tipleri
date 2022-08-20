@@ -1,0 +1,13 @@
+C:\Users\pc\Documents\GitHub\Degiskenler-Ve-Veri-Tipleri\Degiskenler ve Veri Tipleri\bin\Debug\netcoreapp3.1\Degiskenler ve Veri Tipleri.exe
+C:\Users\pc\Documents\GitHub\Degiskenler-Ve-Veri-Tipleri\Degiskenler ve Veri Tipleri\bin\Debug\netcoreapp3.1\Degiskenler ve Veri Tipleri.deps.json
+C:\Users\pc\Documents\GitHub\Degiskenler-Ve-Veri-Tipleri\Degiskenler ve Veri Tipleri\bin\Debug\netcoreapp3.1\Degiskenler ve Veri Tipleri.runtimeconfig.json
+C:\Users\pc\Documents\GitHub\Degiskenler-Ve-Veri-Tipleri\Degiskenler ve Veri Tipleri\bin\Debug\netcoreapp3.1\Degiskenler ve Veri Tipleri.runtimeconfig.dev.json
+C:\Users\pc\Documents\GitHub\Degiskenler-Ve-Veri-Tipleri\Degiskenler ve Veri Tipleri\bin\Debug\netcoreapp3.1\Degiskenler ve Veri Tipleri.dll
+C:\Users\pc\Documents\GitHub\Degiskenler-Ve-Veri-Tipleri\Degiskenler ve Veri Tipleri\bin\Debug\netcoreapp3.1\Degiskenler ve Veri Tipleri.pdb
+C:\Users\pc\Documents\GitHub\Degiskenler-Ve-Veri-Tipleri\Degiskenler ve Veri Tipleri\obj\Debug\netcoreapp3.1\Degiskenler ve Veri Tipleri.csprojAssemblyReference.cache
+C:\Users\pc\Documents\GitHub\Degiskenler-Ve-Veri-Tipleri\Degiskenler ve Veri Tipleri\obj\Debug\netcoreapp3.1\Degiskenler ve Veri Tipleri.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\GitHub\Degiskenler-Ve-Veri-Tipleri\Degiskenler ve Veri Tipleri\obj\Debug\netcoreapp3.1\Degiskenler ve Veri Tipleri.AssemblyInfo.cs
+C:\Users\pc\Documents\GitHub\Degiskenler-Ve-Veri-Tipleri\Degiskenler ve Veri Tipleri\obj\Debug\netcoreapp3.1\Degiskenler ve Veri Tipleri.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\GitHub\Degiskenler-Ve-Veri-Tipleri\Degiskenler ve Veri Tipleri\obj\Debug\netcoreapp3.1\Degiskenler ve Veri Tipleri.dll
+C:\Users\pc\Documents\GitHub\Degiskenler-Ve-Veri-Tipleri\Degiskenler ve Veri Tipleri\obj\Debug\netcoreapp3.1\Degiskenler ve Veri Tipleri.pdb
+C:\Users\pc\Documents\GitHub\Degiskenler-Ve-Veri-Tipleri\Degiskenler ve Veri Tipleri\obj\Debug\netcoreapp3.1\Degiskenler ve Veri Tipleri.genruntimeconfig.cache
